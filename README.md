@@ -1,2 +1,2 @@
 # buffet
-A delicious buffet
+A delicious buffet with various sandwiches
